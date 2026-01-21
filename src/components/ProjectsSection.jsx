@@ -4,12 +4,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
         id: 1,
-        title: "Website Recreation: Papachinos",
-        description: "An improved version of the Papachinos Website",
-        image: "papchinos.png",
-        tags: ["HTML", "CSS"],
-        demoUrl: "https://teal-naiad-560d63.netlify.app/",
-        githubUrl: "https://github.com/Sphesihle118/Papachinos-Website.git",
+        title: "Restaurant Booking system",
+        description: "A simple booking system for a japanese restaurant",
+        image: "Restaurant.png",
+        tags: ["HTML", "CSS", "Javascript", "NodeJS", "React"],
+        demoUrl: "https://sphesihle-booking-system.vercel.app/",
+        githubUrl: "https://github.com/Sphesihle118/SphesihleBookingSystem.git",
     },
     {
         id: 2,
